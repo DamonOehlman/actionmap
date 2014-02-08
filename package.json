@@ -1,0 +1,25 @@
+{
+  "name": "actionmap",
+  "version": "0.0.0",
+  "description": "A companion to game-shell for handling game actions succinctly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gendocs": "gendocs > README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DamonOehlman/actionmap.git"
+  },
+  "keywords": [
+    "game-shell",
+    "actionmap",
+    "game"
+  ],
+  "author": "Damon Oehlman <damon.oehlman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DamonOehlman/actionmap/issues"
+  },
+  "homepage": "https://github.com/DamonOehlman/actionmap"
+}
